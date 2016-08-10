@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "KariyerNetParser\\": "src/KariyerNetParser"
+            "KariyerNetParser\\": "src/"
         }
     }
 }
