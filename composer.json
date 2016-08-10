@@ -1,0 +1,19 @@
+{
+    "name": "brewinteractive/kariyer-net-parser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "BrewInteractive",
+            "email": "robot@brewww.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "imangazaliev/didom":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KariyerNetParser\\": "src/KariyerNetParser"
+        }
+    }
+}
