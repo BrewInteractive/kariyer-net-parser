@@ -1,5 +1,6 @@
 {
     "name": "brewinteractive/kariyer-net-parser",
+    "description" : "",
     "type": "library",
     "authors": [
         {
@@ -7,13 +8,11 @@
             "email": "robot@brewww.com"
         }
     ],
-    "require": {},
-    "require-dev": {
-        "imangazaliev/didom":"*"
-    },
-    "autoload": {
-        "psr-4": {
-            "KariyerNetParser\\": "src/KariyerNetParser"
-        }
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"require-dev": {
+         "imangazaliev/didom":"*"
     }
 }
