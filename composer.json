@@ -10,9 +10,7 @@
     ],
 	"license": "MIT",
 	"require": {
-		"php": ">=5.3.0"
-	},
-	"require-dev": {
-         "imangazaliev/didom":"*"
-    }
+		"php": ">=5.3.0",
+		"imangazaliev/didom":"*"
+	}
 }
